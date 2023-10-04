@@ -19,7 +19,7 @@ Dev4S4C-Train-The-Trainer
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
 -->
 
-## Description
+# Description
 
 This repository contains technical artifacts required for running the Dev4S4C Hands-on workshop using some theory sessions with some hands-on exercises.
 Dev4S4C enables both Architects and Developers via highly interactive and high-touch sessions over a 2-day period, where our partners can learn with SAP experts, and put their knowledge to the test with hands-on exercises.
@@ -30,11 +30,11 @@ This repository contains two packages
 1) Setup Content: (z_trainer_reuse_objects) : This contains the Trainer content which contains the re-usable artifacts to be used for the Hands-on Exercises.
 2) Sample Artifacts:(z_trainer_solutions_d4s4) : The sample artifacts created after the completion of the hands-on exercises. These are given for reference purposes only. These artifacts are ideally created after the completion of the hands-on exercises as per the documents given for the workshop.
 
-## Details of the Exercises
+# Details of the Exercises
 
 This repository is requires S/4HANA Cloud, Public Edition (Development Tenant) to be able to import the content.
 
-## Exercise Details 
+# Exercise Details 
 Exercise 1 : Build a small Extension in S/4HANA Cloud (Scenario Depiction) 
 
 ![image](https://github.com/SAP-samples/dev4s4c-train-the-trainer/assets/84840453/d50ca17a-9e73-4b6a-8012-1cab8c978238)
@@ -49,9 +49,9 @@ service, which will contain the custom coding in its handler class.
 
 ![image](https://github.com/SAP-samples/dev4s4c-train-the-trainer/assets/84840453/2c867ae6-44f0-4ce4-b3cb-7be9f72702da)
 
-## Download and Installation
+# Download and Installation
 
-Import the ABAP development objects of this repository into your system using abapGit as described here and run the demo classes by choosing F9 in the ABAP development tools for Eclipse (ADT) for checking out the ABAP syntax in action.
+Import the ABAP development objects of this repository into your system using abapGit as described here and run the demo classes by choosing F9 in the ABAP development tools for Eclipse (ADT) for checking out the ABAP syntax in action. Import the repository into the development tenant of the S/4HANA Cloud, Public Edition. 
  
 ## Disclaimer
 The code examples presented in this repository are only syntax examples and are not intended for direct use in a production system environment. The code examples are primarily intended to provide a better explanation and visualization of the syntax and semantics of ABAP statements and not to solve concrete programming tasks. For production application programs, a dedicated solution should therefore always be worked out for each individual case. There is no guarantee for either the correctness or the completeness of the code. In addition, there is no legal responsibility or liability for possible errors or their consequences, which occur through the use of the example code.
