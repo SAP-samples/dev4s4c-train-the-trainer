@@ -13,14 +13,17 @@ The [Reuse Tool](https://reuse.software/) must be used for your samples project.
 Please edit this file as it is the primary description file for your project. You can find some placeholder titles for sections below.
 
 # [Title]
-<!-- Please include descriptive title -->
+Dev4S4C-Train-The-Trainer
 
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
 -->
 
 ## Description
-<!-- Please include SEO-friendly description -->
+
+Dev4S4 enables both Architects and Developers via highly interactive and high-touch sessions over a 2-day period, where our partners can learn with SAP experts, and put their knowledge to the test with hands-on exercises.
+Covering contents directly related to delivering cloud solutions keeping the core clean, such as: ABAP Cloud, custom code migration, Application Extension Methodology, SAP S/4HANA extensibility options, and Clean Core concepts.
+
 
 ## Requirements
 
