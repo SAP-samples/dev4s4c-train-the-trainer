@@ -21,13 +21,22 @@ Dev4S4C-Train-The-Trainer
 
 ## Description
 
-Dev4S4 enables both Architects and Developers via highly interactive and high-touch sessions over a 2-day period, where our partners can learn with SAP experts, and put their knowledge to the test with hands-on exercises.
+This repository contains technical artifacts required for running the Dev4S4C Hands-on workshop using some theory sessions with some hands-on exercises.
+Dev4S4C enables both Architects and Developers via highly interactive and high-touch sessions over a 2-day period, where our partners can learn with SAP experts, and put their knowledge to the test with hands-on exercises.
 Covering contents directly related to delivering cloud solutions keeping the core clean, such as: ABAP Cloud, custom code migration, Application Extension Methodology, SAP S/4HANA extensibility options, and Clean Core concepts.
-
 
 ## Requirements
 
+This repository is requires S/4HANA Cloud, Public Edition (Development Tenant) to be able to import the content.
+![image](https://github.com/SAP-samples/dev4s4c-train-the-trainer/assets/84840453/9983e16f-9adb-4515-9578-2bb54a84b5bc)
+
 ## Download and Installation
+
+Import the ABAP development objects of this repository into your system using abapGit as described here and run the demo classes by choosing F9 in the ABAP development tools for Eclipse (ADT) for checking out the ABAP syntax in action.
+
+This contains two packages 
+
+1) Setup Content : (z_trainer_reuse_objects) : This contains the Trainer content which contains the re-usalb
 
 ## Disclaimer
 The code examples presented in this repository are only syntax examples and are not intended for direct use in a production system environment. The code examples are primarily intended to provide a better explanation and visualization of the syntax and semantics of ABAP statements and not to solve concrete programming tasks. For production application programs, a dedicated solution should therefore always be worked out for each individual case. There is no guarantee for either the correctness or the completeness of the code. In addition, there is no legal responsibility or liability for possible errors or their consequences, which occur through the use of the example code.
