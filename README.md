@@ -1,7 +1,6 @@
 # Dev4S4C Train the Trainer
 
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/dev4s4c-train-the-trainer)
-
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/dev4s4c-train-the-trainer)](https://api.reuse.software/info/github.com/SAP-samples/dev4s4c-train-the-trainer)
 # Description
 
 This repository contains technical artifacts required for running the Dev4S4C Hands-on workshop using some theory sessions with some hands-on exercises.
